@@ -9,6 +9,13 @@ Windows Spotlight è una funzionalità popolare che scarica e visualizza automat
 
 NOTA: Una volta eseguito, potrebbero essere necessarie fino a 48 ore per ripristinare la piena funzionalità di Windows Spotlight.
 
+## Come usarlo?
+
+-   Scarica l'archivio e scompattalo in una posizione a piacere
+-   Fare doppio clic sul file WinUtil_Cloud.bat
+-   Accetta la richiesta dell'App di apportare modifiche al tuo dispositivo
+-   È tutto.
+
 Divertitevi ;-)
 
 p.s. Ricorda che sei responsabile di ciò che stai facendo su Internet e anche se questo script esiste, potrebbe non essere legale nel tuo paese utilizzarlo.
@@ -25,6 +32,13 @@ ENGLISH
 Windows Spotlight is a popular feature that automatically downloads and displays beautiful images on your lock screen. These images are updated regularly and are often accompanied by tips and fun facts. However, sometimes Windows Spotlight may stop working, and the lock screen may get stuck on a single image or fail to display any images at all. If you’re experiencing this issue, don’t worry, this script will restore its normal functionality. Regularly updating your system and keeping your files in check can help prevent such issues in the future.
 
 NOTE: Once performed, it may take up to 48 hours to restore full functionality of Windows Spotlight.
+
+## How to use it?
+
+- Download the archive and unpack it to a location of your choice
+- Double-click the WinUtil_Cloud.bat file
+- Accept the App's request to make changes to your device
+- That's it.
 
 Enjoy ;-)
 
